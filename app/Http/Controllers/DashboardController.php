@@ -21,7 +21,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\ReportController;
  
 use Maatwebsite\Excel\Facades\Excel;
-use Maatwebsite\Excel\Concerns\ToArray;
+use Maatwebsite\Excel\Concerns\ToArray; 
 use App\Models\Client;
 use App\Models\Workflow;
 use App\Models\UserAllocation;
