@@ -19,7 +19,7 @@ use App\Models\RoleHasPermission;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\ReportController;
-
+ 
 use Maatwebsite\Excel\Facades\Excel;
 use Maatwebsite\Excel\Concerns\ToArray;
 use App\Models\Client;
